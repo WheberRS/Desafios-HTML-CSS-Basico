@@ -1,0 +1,20 @@
+html {
+    margin: 0px 0px 0px 50px;
+}
+h3 {
+    margin: 0px 0px 0px 85px;;
+}
+table, td, th {
+    border: 1px, solid, white;
+    border-collapse: collapse;
+    background-color: #424250;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+.moda {
+    background-color: #bb86fc;        
+}
+.casa {
+    background-color: #00c4b4;
+}
